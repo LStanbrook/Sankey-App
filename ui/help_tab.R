@@ -1,6 +1,6 @@
 tabItem(tabName = "help",
               box(markdown("**App deployed here**: [https://louisstanbrook.shinyapps.io/sankey_app/]
-                            **Code can be found here**: [https://github.com/L057278/Sankey_App]"),
+                            **Code can be found here**: [https://github.com/LStanbrook/Sankey-App]"),
                 width = 12),
               box(h2('Input Data (csv, sas7bdat or xlsx file)'),
                   br(),
