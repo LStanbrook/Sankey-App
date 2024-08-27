@@ -6,13 +6,13 @@
 	2: Run from the GitHub Repository, using the following code in RStudio:
 	install.packages('shiny')
 	library(shiny)
-	shiny::runGitHub('L057278/Sankey_App', ref = 'main')
+	shiny::runGitHub('LStanbrook/Sankey-App', ref = 'main')
 
 	3: Run locally, downloaded from the GitHub Repository:
-	Navigate to the GitHub Repository: https://github.com/L057278/Sankey_App
+	Navigate to the GitHub Repository: [https://github.com/LStanbrook/Sankey-App]
 	Click on the green ‘Code’ button and click ‘Download ZIP’
-	Once it has downloaded, extract the folder to somewhere useful in your files e.g. your section of the EW_STATS drive.
-	Run the following code. Be careful about your file directory link as the syntax is quite unforgiving and it also changes for different versions. This will be a link to your app folder (Sankey_App unless you called it something different):
+	Once it has downloaded, extract the folder to somewhere useful in your files.
+	Run the following code. Be careful about your file directory link as the syntax is quite unforgiving and it also changes for different versions. This will be a link to your app folder (Sankey-App unless you called it something different):
 	install.packages(‘shiny’)
 	library(shiny)
 	shiny::runApp("[YOUR DIRECTORY LINK]")
