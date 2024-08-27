@@ -1,0 +1,56 @@
+/* Existing styles */
+hr {
+    border-top: 1px solid #212121;
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+#keep_alive {
+    visibility: hidden;
+}
+
+div.wrapper {
+    overflow: visible;
+}
+
+/* New styles for changing colors */
+.skin-black .main-header .navbar {
+    background-color: #E1251B !important;
+}
+
+.skin-black .main-sidebar {
+    background-color: #212121 !important;
+}
+
+.skin-black .main-header .logo {
+    background-color: #E1251B !important;
+    color: #FFFFFF !important;
+}
+
+.skin-black .main-header .logo span {
+    color: #FFFFFF !important;
+}
+
+.skin-black .main-header .logo-mini {
+    background-color: #E1251B !important;
+    color: #FFFFFF !important;
+}
+
+.content-wrapper, .right-side {
+    background-color: #FFFFFF !important;
+}
+
+.box, .box-header, .box-body {
+    background-color: #FFFFFF !important;
+}
+
+.main-header .sidebar-toggle {
+    color: #FFFFFF !important;
+}

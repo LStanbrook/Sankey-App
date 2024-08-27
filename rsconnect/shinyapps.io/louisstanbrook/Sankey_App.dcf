@@ -1,0 +1,12 @@
+name: Sankey_App
+title: Sankey_App
+username: louisstanbrook
+account: louisstanbrook
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12369589
+bundleId: 8911311
+url: https://louisstanbrook.shinyapps.io/Sankey_App/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
